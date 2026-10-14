@@ -1,8 +1,6 @@
 # Weather App - Prakiraan Cuaca BMKG
 
 **Nama**: Nahdah Fauziah Chaidir  
-**NIM**: [Isi NIM Anda di sini]  
-**Kelas**: [Isi Kelas Anda di sini]  
 
 ---
 
